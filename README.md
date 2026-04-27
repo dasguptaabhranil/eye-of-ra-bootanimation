@@ -6,7 +6,7 @@ A KernelSU module that replaces the system boot animation with the Eye of RA, st
 
 ## Preview
 
-https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/assets/preview.mp4
+https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/blob/main/assets/preview.mp4
 
 ---
 
