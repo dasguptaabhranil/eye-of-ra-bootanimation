@@ -67,7 +67,7 @@ Disable or remove the module from KernelSU Manager, then reboot. Stock animation
 ```
 git clone https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/
 cd eye-of-ra-bootanim
-zip -r eye-of-ra-bootanim.zip META-INF system
+zip -r eye-of-ra-bootanim.zip system
 ```
 
 ---
