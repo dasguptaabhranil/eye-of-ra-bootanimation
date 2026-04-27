@@ -6,7 +6,8 @@ A KernelSU module that replaces the system boot animation with the Eye of RA, st
 
 ## Preview
 
-https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/blob/main/assets/preview.mp4
+
+https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/assets/XXXXXX/preview.mp4
 
 ---
 
@@ -16,7 +17,6 @@ https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/blob/main/assets/pre
 |---|---|
 | Android | 12 or higher |
 | Root | KernelSU only |
-| Architecture | arm64-v8a |
 
 Magisk and APatch are **not** supported. Do not report issues if you're using them.
 
