@@ -1,13 +1,14 @@
 # Eye of RA (crDroid Style) — Boot Animation  
 
-A KernelSU module that replaces the system boot animation with the Eye of RA, styled after crDroid's aesthetic. 30 FPS, clean loop, no residue.
+A KernelSU module that replaces the system boot animation with the Eye of RA, styled after crDroid's logo. 30 FPS.
 
 ---
 
 ## Preview
 
-
-https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/assets/XXXXXX/preview.mp4
+<p align="center">
+  <img src="assets/preview.gif" width="280"/>
+</p>
 
 ---
 
