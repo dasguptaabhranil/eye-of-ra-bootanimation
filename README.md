@@ -25,7 +25,7 @@ Magisk and APatch are **not** supported. Do not report issues if you're using th
 
 ## Installation
 
-1. Download the latest `.zip` from [Releases](https://github.com/YOUR_USERNAME/eye-of-ra-bootanim/releases).
+1. Download the latest `.zip` from [Releases](https://github.com/dasguptaabhranil/eye-of-ra-bootanimation/releases).
 2. Open KernelSU Manager.
 3. Tap **Install** and select the zip.
 4. Go Through the Followings
@@ -77,7 +77,7 @@ zip -r eye-of-ra-bootanim.zip META-INF system
 ```
 MIT License
 
-Copyright (c) 2026 YOUR_USERNAME
+Copyright (c) 2026 dasguptaabhranil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
