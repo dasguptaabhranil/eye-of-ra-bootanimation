@@ -44,7 +44,7 @@ Animation specs:
 - Resolution: 480x480 (scales on other densities) (Don't worry, It supports all device)
 - Frame rate: 30 FPS
 - Loop: plays once, then holds last frame
-- Style: crDroid — dark background, gold Ra motif, minimal particle trail
+- Style: crDroid — dark background
 
 ---
 
