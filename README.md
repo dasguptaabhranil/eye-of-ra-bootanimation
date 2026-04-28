@@ -41,7 +41,7 @@ Installs a custom `bootanimation.zip` into `/system/media/` using a KernelSU mod
 
 Animation specs:
 
-- Resolution: 480x480 (scales on other densities) (DOn't woryy, It'll support ya device)
+- Resolution: 480x480 (scales on other densities) (Don't worry, It supports all device)
 - Frame rate: 30 FPS
 - Loop: plays once, then holds last frame
 - Style: crDroid — dark background, gold Ra motif, minimal particle trail
